@@ -79,7 +79,7 @@ body,
   border: #5a5a5a 1x dotted;
 }
 
-.snake-food {
+.food {
   background-color: #dedede;
   border: #999 5px solid;
 }
